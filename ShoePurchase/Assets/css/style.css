@@ -1,0 +1,27 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+footer{
+    background-color:#008B8B;
+    color: white;
+    opacity: 0.8;
+}
+footer h2{
+    margin-top: 25px;
+    color: thistle;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+  }
+ 
+  .login input{
+      width: 400px;
+      background-color: rgb(184, 184, 230);
+  }
+  .login button{
+      width: 40px;
+
+  }
+
+  
